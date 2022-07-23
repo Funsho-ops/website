@@ -1,3 +1,3 @@
 # Responsive web-design
 
-[A responsive mini website using HTML & CSS only]
+[<https://funsho-ops.github.io/website/> A responsive mini website using HTML & CSS only]
